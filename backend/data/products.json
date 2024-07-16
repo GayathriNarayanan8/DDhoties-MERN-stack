@@ -1,0 +1,241 @@
+[
+    {
+        "name": "Lightgreen Color Dhoties & Shirts",
+        "price": 35,
+        "description": "Size: (age:1year-2years) , clothtype: Asha",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/image-1.jpg"
+            },
+            {
+                "image": "/images/image-1.jpg"
+            }
+
+        ],
+        "category": "Kids Wear",
+        "seller": "Sri Balaji Garments",
+        "stock": 5,
+        "numOfReviews": 15,
+        "review": []
+    },
+    {
+        "name": "Golden Color Dhoties & Shirts",
+        "price": 35,
+        "description": "Size:(age:3years-4years) & ClothType: Asha Pattu",
+        "ratings": 3.5,
+        "images": [
+            {
+                "image": "/images/image-2.jpg"
+            },
+            {
+                "image": "/images/image-2.jpg"
+            }
+        ],
+        "category": "Kids Wear",
+        "seller": "Sri Balaji Garments",
+        "stock": 5,
+        "numOfReviews": 10,
+        "review": []
+    },
+    {
+        "name": "Yellow Dhoties & Shirts",
+        "price": 37,
+        "description": "Size: (age:5years-6years) & ClothType = Ashapattu",
+        "ratings": 4.0,
+        "images": [
+            {
+                "image": "/images/image-3.jpg"
+            },
+            {
+                "image": "/images/image-3.jpg"
+            }
+
+        ],
+        "category": "Kids Wear",
+        "seller": "Sri Balaji Garments",
+        "stock": 5,
+        "numOfReviews": 12,
+        "review": []
+    },
+    {
+        "name": "Lightpink Color Dhoties & Shirts",
+        "price": 38,
+        "description": "Size: (age:7year-8year) & ClothType: Ashapattu",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/image-4.jpg"
+            }
+        ],
+        "category": "Kids Wear",
+        "seller": "Sri Balaji Garments",
+        "stock": 5,
+        "numOfReviews": 15,
+        "review": []
+    },
+    {
+        "name": "Blue Color Dhoties & Shirts",
+        "price": 38,
+        "description": "Size: (age:9years-10years) & ClothType = Ashapattu",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/image-5.jpg"
+            }
+        ],
+        "category": "Kids Wear",
+        "seller": "Sri Balaji Garments",
+        "stock": 5,
+        "numOfReviews": 11,
+        "review": []
+    },
+    {
+        "name": "Lightblue Color Dhoties & Shirts",
+        "price": 39,
+        "description": "Size: (age:11years-12years) & ClothType: Ashapattu",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/image-6.jpg"
+            }
+        ],
+        "category": "Kids Wear",
+        "seller": "Sri Balaji Garments",
+        "stock": 5,
+        "numOfReviews": 0,
+        "review": []
+    },
+    {
+        "name": "Lavender Color Dhoties & Shirts",
+        "price": 39,
+        "description": "Size: (age:13years-14years) & ClothType: Ashapattu",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/image-7.jpg"
+            }
+        ],
+        "category": "Kids Wear",
+        "seller": "Sri Balaji Garments",
+        "stock": 5,
+        "numOfReviews": 0,
+        "review": []
+    },
+    {
+        "name": "DarkPink Color Dhoties & Shirts",
+        "price": 39,
+        "description": "Size: (age:15years-16years) & ClothType = Ashapattu",
+        "ratings": 3.0,
+        "images": [
+            {
+                "image": "/images/image-8.jpg"
+            }
+        ],
+        "category": "Kids Wear",
+        "seller": "Sri Balaji Garments",
+        "stock": 5,
+        "numOfReviews": 1,
+        "review": []
+    },
+    {
+        "name": "OliveGreen Color Dhoties & Shirts",
+        "price": 39,
+        "description": "Size: (age:17years-18years) & ClothType: AshaPattu",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/image-9.jpg"
+            }
+        ],
+        "category": "Mens Wear",
+        "seller": "Sri Balaji Garments",
+        "stock": 5,
+        "numOfReviews": 1,
+        "review": []
+    },
+    {
+        "name": "Grey Color Dhoties & Shirts",
+        "price": 40,
+        "description": "Size: 36 Inch & ClothType = Pattu",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/image-10.jpg"
+            },
+            {
+                "image": "/images/image-10.jpg"
+            }
+        ],   
+        "category": "Mens Wear",
+        "seller": "Sri Balaji Garments",
+        "stock": 5,
+        "numOfReviews": 2,
+        "review": []
+    },
+    {
+        "name": "lightgreen Color Dhoties & Shirts",
+        "price": 41,
+        "description": "Size: 38 Inch & ClothType: Asha Pattu",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/image-1.jpg"
+            }
+        ],
+        "category": "Mens Wear",
+        "seller": "Sri Balaji Garments",
+        "stock": 5,
+        "numOfReviews": 3,
+        "review": []
+    },
+    {
+        "name": "Golden Color Dhoties & Shirts",
+        "price": 44,
+        "description": "Size: 40 Inch & ClothType: Pattu ",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/image-2.jpg"
+            }
+        ],
+        "category": "Mens Wear",
+        "seller": "Sri Balaji Garments",
+        "stock": 5,
+        "numOfReviews": 2,
+        "review": []
+    },
+    {
+        "name": "DarkPink Color Dhoties & Shirts",
+        "price": 46,
+        "description": "Size: 42 Inch & ClothType: Asha Pattu",
+        "ratings": 4.0,
+        "images": [
+            {
+                "image": "/images/image-8.jpg"
+            }
+        ],
+        "category": "Mens Wear",
+        "seller": "Sri Balaji Garments",
+        "stock": 5,
+        "numOfReviews": 2,
+        "review": []
+    },
+    {
+        "name": "Blue Color Dhoties & Shirts",
+        "price": 44,
+        "description": "Size:44 Inch & ClothType:Asha Pattu",
+        "ratings": 5.0,
+        "images": [
+            {
+                "image": "/images/image-5.jpg"
+            }
+        ],
+        "category": "Mens Wear",
+        "seller": "Sri Balaji Garments",
+        "stock": 5,
+        "numOfReviews": 2,
+        "review": []
+    }
+    
+]
